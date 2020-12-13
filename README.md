@@ -22,10 +22,15 @@ This applicaiton is a budget tracker made for avid travelers to be able to track
 * JavaScript <br>
 
 ## Links
-Github Repository | 
+Github Repository | https://github.com/tbrichet/budget-tracker
 Live URL (Heroku) |
 
 ## Programs and Contributions
+* Node.js <br>
+* MongoDB <br>
+* Mongoose <br>
+* Express <br>
+* IndexedDB <br>
 * Starter Code provided by University of Arizona Bootcamp <br>
 * Remaining code created with <3 by Tara Brichetto
 
