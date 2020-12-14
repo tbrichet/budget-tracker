@@ -1,4 +1,4 @@
-const APP_PREFIX = 'arcane';     
+const APP_PREFIX = 'arcane-coast-59417';     
 const VERSION = 'version_01';
 const CACHE_NAME = APP_PREFIX + VERSION;
 const FILES_TO_CACHE = [
