@@ -22,8 +22,8 @@ This applicaiton is a budget tracker made for avid travelers to be able to track
 * JavaScript <br>
 
 ## Links
-Github Repository | https://github.com/tbrichet/budget-tracker
-Live URL (Heroku) |
+Github Repository | https://github.com/tbrichet/budget-tracker <br>
+Live URL (Heroku) | https://arcane-coast-59417.herokuapp.com/
 
 ## Programs and Contributions
 * Node.js <br>
